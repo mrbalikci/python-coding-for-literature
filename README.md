@@ -2,8 +2,6 @@
 
 
 
-![Language](Images/language.jpg)
-
 Assessed the complexity of various passages of writing, ranging from the sophomoric Twilight novel to the nauseatingly high-minded research article. There is a fairly simple set of metrics for assessing complexity.
 
 The task was to create a Python script to automate the analysis of any such passage using these metrics. For the script the followings were done:
